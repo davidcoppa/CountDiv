@@ -1,0 +1,13 @@
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\bin\Debug\netcoreapp3.1\CountDiv.exe
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\bin\Debug\netcoreapp3.1\CountDiv.deps.json
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\bin\Debug\netcoreapp3.1\CountDiv.runtimeconfig.json
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\bin\Debug\netcoreapp3.1\CountDiv.runtimeconfig.dev.json
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\bin\Debug\netcoreapp3.1\CountDiv.dll
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\bin\Debug\netcoreapp3.1\CountDiv.pdb
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\obj\Debug\netcoreapp3.1\CountDiv.csproj.AssemblyReference.cache
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\obj\Debug\netcoreapp3.1\CountDiv.AssemblyInfoInputs.cache
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\obj\Debug\netcoreapp3.1\CountDiv.AssemblyInfo.cs
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\obj\Debug\netcoreapp3.1\CountDiv.csproj.CoreCompileInputs.cache
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\obj\Debug\netcoreapp3.1\CountDiv.dll
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\obj\Debug\netcoreapp3.1\CountDiv.pdb
+D:\Dropbox\david\code\GitHub\C#\CountDiv\CountDiv\obj\Debug\netcoreapp3.1\CountDiv.genruntimeconfig.cache
